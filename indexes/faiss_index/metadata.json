@@ -1,0 +1,386 @@
+[
+  {
+    "document_id": "EVENT_POLICY",
+    "document_name": "event_policy.txt",
+    "page": 1,
+    "section": "",
+    "chunk_id": "EVENT_POLICY_CH_0001",
+    "chunk_text": "Corporate Event Policy Venue Capacity The main event hall supports a maximum of 500 attendees. The training room supports up to 80 attendees. Catering Options Approved catering options include vegetarian meals, non-vegetarian meals, snacks, tea, and coffee. Special dietary requests should be submitted with the event request. Cancellation Policy Venue cancellation requests should be submitted to the administration team as early as possible. Cancellation charges depend on the timing and the terms of the venue agreement. Event Approval Events require an approved request containing the event purpose, expected attendance, venue requirement, and estimated budget."
+  },
+  {
+    "document_id": "LEAVE_POLICY",
+    "document_name": "leave_policy.txt",
+    "page": 1,
+    "section": "",
+    "chunk_id": "LEAVE_POLICY_CH_0002",
+    "chunk_text": "Employee Leave Policy Annual Leave Eligible employees may request annual leave through the approved leave workflow. Managers review requests based on staffing requirements. Sick Leave Sick leave should be recorded through the employee leave system as soon as practical. Leave Records Employees should ensure that leave dates and approval status are accurately recorded."
+  },
+  {
+    "document_id": "README",
+    "document_name": "README.txt",
+    "page": 1,
+    "section": "",
+    "chunk_id": "README_CH_0003",
+    "chunk_text": "Place additional PDF, TXT, or DOCX corpus files in this folder and rerun scripts/build_index.py."
+  },
+  {
+    "document_id": "REIMBURSEMENT_POLICY",
+    "document_name": "reimbursement_policy.txt",
+    "page": 1,
+    "section": "",
+    "chunk_id": "REIMBURSEMENT_POLICY_CH_0004",
+    "chunk_text": "Company Travel Reimbursement Policy Domestic Travel Employees travelling on approved domestic business trips may claim eligible transportation, lodging, and meal expenses according to the limits defined in this policy. Original receipts are required for reimbursable expenses unless a documented exception applies. International Travel International business travel requires prior approval from the employee's manager and the travel administration team. International reimbursement claims must include the approved travel request, itemized receipts, and the final travel itinerary. Transportation Economy-class airfare is reimbursable for standard business travel. Higher cabin classes require explic"
+  },
+  {
+    "document_id": "REIMBURSEMENT_POLICY",
+    "document_name": "reimbursement_policy.txt",
+    "page": 1,
+    "section": "",
+    "chunk_id": "REIMBURSEMENT_POLICY_CH_0005",
+    "chunk_text": "nomy-class airfare is reimbursable for standard business travel. Higher cabin classes require explicit prior authorization. Meals Meal reimbursement is subject to the applicable daily allowance. Claims above the applicable allowance require documented approval. Submission Travel reimbursement claims should be submitted within 30 calendar days after completion of the trip. The claim should identify the trip dates, destination, business purpose, and supporting receipts. Policy Sections Section 1: Domestic Travel Section 2: International Travel Section 3: Transportation Section 4: Meals Section 5: Submission"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 1,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0006",
+    "chunk_text": "SOFTWARE REQUIREMENTS SPECIFICATION Hotel Management System Name :Mayuri M Shine Batch: XXI"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 2,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0007",
+    "chunk_text": "Hotel Management System Application 2 Table of Contents S.No Topic Page No. 1 Abstract 3 2 Existing System 3 3 Proposed System 4 4 Hardware Requirements 5 5 Software Requirements 6 6 Module Description 7 7 Functional Requirements 9 8 Non-Functional Requirements 10 9 High-Level Design (HLD) 11 10 Low-Level Design (LLD) 12 11 UML Diagrams 13 11.1 Use Case Diagram 13 11.2 Class Diagram 14 11.3 Sequence Diagram 15 11.4 Activity Diagram 16 11.5 ER Diagram 17 12 Proposed Test Cases 18 13 Future Scope 19 14 Conclusion 20"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 3,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0008",
+    "chunk_text": "Hotel Management System Application 3 Hotel Management System Software Requirements Specification 1. Abstract The Hotel Management System is a software application designed to automate and streamline the day-to-day operations of hotels, including room reservations, guest management, check -in and check -out processes, billing, staff management, and report generation. The system provides a centralized platform that helps hotel administrators efficiently manage resources, improve customer service, and maint ain accurate records while reducing manual effort and operational errors. This project demonstrates the application of software engineering principles in developing a comprehensive manageme"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 3,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0009",
+    "chunk_text": "monstrates the application of software engineering principles in developing a comprehensive management solution, showcasing key concepts such as modular design, database management, object - oriented programming, and user-friendly interfaces. It enables hotel staff to perform various operational tasks efficiently, enhances the guest experience through faster service delivery, and provides management with real-time access to important business information, all within a structured and integrated system. 2. Existing System Before the introduction of computerized Hotel Management Systems, hotel operations were managed manually using paper records, registers, spreadsheets , or disconnected softwa"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 3,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0010",
+    "chunk_text": "erations were managed manually using paper records, registers, spreadsheets , or disconnected software applications. These traditional systems lacked automation, centralized data management, and real -time access to information, resulting in inefficiencies and operational challenges. The problems found in existing systems include: 2.1 Manual Reservation Management Traditional hotel management relied heavily on manual booking processes, leading to: • Errors in room reservations and guest records • Double booking or overbooking of rooms • Difficulty in tracking room availability in real time 2.2 Inefficient Guest Management Older systems lacked centralized guest information management, causing"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 3,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0011",
+    "chunk_text": "Inefficient Guest Management Older systems lacked centralized guest information management, causing: • Time-consuming guest registration processes • Difficulty maintaining guest history and preferences • Delays in providing personalized customer service 2.3 Limited Billing and Payment Processing Existing systems often handled billing manually, resulting in: • Calculation errors in invoices and payments • Delays in generating bills during check-out • Difficulty tracking payment status and transaction history"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 4,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0012",
+    "chunk_text": "Hotel Management System Application 4 2.4 Lack of Integrated Operations Traditional hotel management methods operated as separate processes without integration, leading to: • Poor coordination between reception, housekeeping, and management • Delayed updates on room status and occupancy • Increased administrative workload and communication gaps 2.5 Limited Reporting and Analytics Earlier systems provided minimal reporting capabilities, causing: • Difficulty monitoring hotel performance and occupancy rates • Limited access to business insights and financial reports • Challenges in making data-driven management decisions 3. Proposed System The proposed Hotel Management System automates the ent"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 4,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0013",
+    "chunk_text": "riven management decisions 3. Proposed System The proposed Hotel Management System automates the entire hotel operation process through a centralized software platform. It streamlines room reservations, guest management, billing, staff management, and reporting activities, enabling hotels to operate efficiently while providing enhanced customer service. 3.1 System Provides • Automated room reservation and booking management • Real-time room availability tracking • Guest registration and profile management • Check-in and check-out processing • Staff information and task management • Report generation and business analytics • Secure data storage and retrieval 3.2 Key Improvements Over Existing"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 4,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0014",
+    "chunk_text": "ration and business analytics • Secure data storage and retrieval 3.2 Key Improvements Over Existing Systems • Centralized management of all hotel operations • Real-time room availability and booking updates • Faster guest registration and check-in/check-out processes • Improved coordination between hotel departments • Quick access to reports and operational data • Enhanced data security and record management • Reduced manual paperwork and administrative effort 3.3 Features of Proposed System • Manage room details and availability status • Create, update, and cancel reservations • Register and maintain guest information • Process guest check-in and check-out activities • Generate bills and t"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 4,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0015",
+    "chunk_text": "maintain guest information • Process guest check-in and check-out activities • Generate bills and track payment transactions • Manage staff records and responsibilities This system brings all essential hotel management functionalities into a single, easy-to-use software application, improving operational efficiency, customer satisfaction, and overall business managem"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 5,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0016",
+    "chunk_text": "Hotel Management System Application 5 4. Hardware Requirements The hardware requirements for this project are moderate because the Hotel Management System is designed to handle room reservations, guest records, billing operations, staff management, and report generation. A stable internet connection may be required for database synchronization, online reservations, 4.1 Minimum Requirements Component Requirement Processor Intel / AMD Dual Core RAM 4 GB or above Storage 1 GB free space Monitor Any basic display Keyboard Required for input Internet Required for online booking and data synchronization Operating System Windows / macOS / Linux 4.2 Recommended Requirements Component Recommended Pro"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 5,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0017",
+    "chunk_text": "tion Operating System Windows / macOS / Linux 4.2 Recommended Requirements Component Recommended Processor Intel i5 or higher RAM 8 GB or more Storage 5 GB Internet Broadband — stable connection OS Windows 10 / Ubuntu 20.04 or above Since the system manages multiple hotel operations such as reservations, guest records, billing, and reporting, mid-range hardware is sufficient for smooth performance. For hotels with a large number of users and transactions, higher hardware specifications are recommended to ensure optimal efficiency and responsiveness."
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 6,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0018",
+    "chunk_text": "Hotel Management System Application 6 5 . Software Requirements 5.1 Software Used Software Purpose Python 3.8+ Core programming language MySQL Database management and data storage VS Code / Eclipse / IntelliJ IDEA Code editor / IDE MySQL Workbench Database design and administration Console / Terminal User input and output interface 5.2 Required Software Versions • Python 3.8 or above / Java JDK 8 or above • MySQL 8.0 or above • MySQL Connector (latest stable version) • VS Code, Eclipse, or IntelliJ IDEA • Windows 10 / Linux operating system 5.3 Additional Tools (Optional) • Git — for version control • XAMPP / WAMP — for local server hosting • Microsoft Excel — for report export and analysis"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 6,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0019",
+    "chunk_text": "ontrol • XAMPP / WAMP — for local server hosting • Microsoft Excel — for report export and analysis • Word Processor — for documentation • Draw.io / StarUML — for UML diagram creation"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 7,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0020",
+    "chunk_text": "Hotel Management System Application 7 6.Module Description The entire Hotel Management System is divided into eight logical modules. Each module has a clearly defined responsibility that contributes to the overall system functionality. Module Class / File Primary Role User Management Module User Manager Manages user accounts and access permissions Room Management Module Room Manager Handles room details and availability Reservation Module Reservation Manager Manages room booking and cancellation Guest Management Module Guest Manager Stores and maintains guest information Check-In / Check-Out Module Check In Manager Processes guest arrivals and departures Billing Module Billing Manager Genera"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 7,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0021",
+    "chunk_text": "odule Check In Manager Processes guest arrivals and departures Billing Module Billing Manager Generates invoices and manages payments Reporting Module Report Generator Creates operational and financial reports User Interface Module ConsoleUI Manages menus and user interaction 6.1 User Management Module This module manages user authentication and authorization within the system. It ensures secure access to hotel operations. Responsibilities: • Create and manage user accounts • Authenticate users during login • Assign roles and access permissions • Maintain user profile information 6.2 Room Management Module This module manages room information and availability status. Responsibilities: • Add,"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 7,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0022",
+    "chunk_text": "gement Module This module manages room information and availability status. Responsibilities: • Add, update, and delete room records • Track room availability in real time • Update room status (Available, Occupied, Maintenance) • Provide room details for reservations 6.3 Reservation Module This module handles the room booking process for guests. Responsibilities: • Create new room reservations • Modify existing bookings • Cancel reservations when required • Check room availability before booking"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 8,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0023",
+    "chunk_text": "Hotel Management System Application 8 6.4 Guest Management Module This module stores and manages guest-related information. Responsibilities: • Register new guests • Maintain guest personal details • Store guest stay history • Retrieve guest records when required 6.5 Check-In / Check-Out Module This module manages guest arrival and departure operations. Responsibilities: • Process guest check-in requests • Assign rooms to guests • Handle guest check-out procedures • Update room occupancy status automatically 6.6 Billing Module This module manages hotel billing and payment processing. Responsibilities: • Generate invoices for guest stays • Calculate room charges and additional services • Reco"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 8,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0024",
+    "chunk_text": "ilities: • Generate invoices for guest stays • Calculate room charges and additional services • Record payment transactions • Maintain billing history 6.7 Reporting Module This module generates various reports required by hotel management. Responsibilities: • Generate occupancy reports • Generate revenue and billing reports • Produce guest activity reports • Provide management insights for decision-making 6.8 User Interface Module This module serves as the interaction layer between users and the system. Responsibilities: • Display menus and navigation options • Accept user input • Display booking, billing, and guest information • Provide a user-friendly and responsive interface"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 9,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0025",
+    "chunk_text": "Hotel Management System Application 9 7. Functional Requirements Functional requirements describe what the system must do. Each requirement is mapped to a specific feature of the Hotel Management System. FR No. Requirement Description FR1 User Login Authorized users can securely log in to the system using valid credentials FR2 Room Management System allows adding, updating, deleting, and viewing room details FR3 Room Reservation System enables guests' room booking, modification, and cancellation FR4 Guest Registration System stores and manages guest information and records FR5 Check-In Processing System allows hotel staff to check guests into assigned rooms FR6 Check-Out Processing System pr"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 9,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0026",
+    "chunk_text": "ing System allows hotel staff to check guests into assigned rooms FR6 Check-Out Processing System processes guest check-out and updates room availability FR7 Billing System automatically generates bills and records payment transactions FR8 Staff Management System manages employee details, roles, and responsibilities FR9 Report Generation System generates occupancy, revenue, and guest activity reports FR10 Logout / Exit User can safely log out and exit the application at any point"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 10,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0027",
+    "chunk_text": "Hotel Management System Application 10 8.Non-Functional Requirements Non-functional requirements describe the quality attributes, performance characteristics, and constraints of the system. NFR No. Attribute Description NFR1 Usability The system interface must be simple, user-friendly, and easy for hotel staff to operate with minimal training NFR2 Performance Room booking, guest management, billing, and report generation operations should execute efficiently with minimal response time NFR3 Reliability The system must provide accurate data processing and robust error handling to ensure uninterrupted hotel operations NFR4 Scalability The system should support increasing numbers of rooms, guest"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 10,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0028",
+    "chunk_text": "upted hotel operations NFR4 Scalability The system should support increasing numbers of rooms, guests, staff, and transactions without significant performance degradation NFR5 Portability The system should run on Windows and Linux platforms with the required software installed NFR6 Maintainability The application should be modular, well-documented, and easy to update or enhance in the future NFR7 Security User authentication, role-based access control, and secure storage of sensitive hotel and guest information must be implemented NFR8 Availability The system should be available whenever required and ensure continuous access to hotel management functions during business operations"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 11,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0029",
+    "chunk_text": "Hotel Management System Application 11 9. High-Level Design (HLD) 9.1 Overall System Architecture / Flow The following diagram illustrates the high-level operation of the Hotel Management System. It shows the four main processing layers — Input Layer, Management Processing Layer, Database Layer, and Output Layer — and how data flows between each component from user requests through to report generation and hotel operations management. Figure 9.1 — High-Level Design Architecture Diagram"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 12,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0030",
+    "chunk_text": "Hotel Management System Application 12 10. Low-Level Design (LLD) The Low-Level Design describes the internal structure of each module and the detailed interactions between classes. It specifies the attributes and methods of each class and shows how they collaborate to deliver the system's functionality. Figure 10.1 — Low-Level Design Class Structure Diagram"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 13,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0031",
+    "chunk_text": "Hotel Management System Application 13 11.UML Diagrams UML (Unified Modeling Language) is a standard visual modeling language used to design and document software systems. The following UML diagrams represent the structure, behaviour, and interactions of the Hotel Management System. Diagram Purpose Use Case Diagram Shows actors and their interactions with system use cases Class Diagram Illustrates the object-oriented class structure and relationships Sequence Diagram Captures the chronological message flow between components Activity Diagram Shows the step-by-step flow of execution from start to end ER Diagram Shows data entities, attributes, keys, and their relationships 11.1 Use Case Diagr"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 13,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0032",
+    "chunk_text": "to end ER Diagram Shows data entities, attributes, keys, and their relationships 11.1 Use Case Diagram The Use Case Diagram identifies the Customer, Receptionist, and Housekeeper as the primary actors and shows their interactions with the core functionalities of the Hotel Management System. The diagram illustrates how customers can check room availability, book rooms, cancel reservations, make payments, and check out, while rece ptionists manage reservations and guest services. The housekeeper is responsible for providing room services and maintaining room cleanliness. Relationships between use cases are represented using the «include» stereotype for dependent functionalities such as refunds"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 13,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0033",
+    "chunk_text": "e cases are represented using the «include» stereotype for dependent functionalities such as refunds, meal services, and room cleaning. Figure 11.1 — Use Case Diagram"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 14,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0034",
+    "chunk_text": "Hotel Management System Application 14 11.2 Class Diagram The Class Diagram illustrates the object -oriented structure of the Hotel Management System. Nine classes are defined — User (manages authentication and system access), Room (stores room details and availability), Reservation (handles room bookings), Guest (maintains guest information), CheckIn (manages guest arrivals), CheckOut (handles guest departures), Billing (generates invoices and charges), Payment (records payment transactions), and Report (generates operational and financial reports). Relationships include associations, aggregation/composition, and navigability between classes. The diagram represents the complete flow of hote"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 14,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0035",
+    "chunk_text": "tion/composition, and navigability between classes. The diagram represents the complete flow of hotel operations from reservation and guest management to billing, payment processing, and report generation.. Figure 11.2 — Class Diagram"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 15,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0036",
+    "chunk_text": "Hotel Management System Application 15 11.3 Sequence Diagram The Sequence Diagram captures the chronological message flow between the Customer, Receptionist, Hotel Management System, and Database across three phases: Reservation Phase (room availability checked, booking details submitted, reservation confirmed), Guest Service Phase (check-in, room allocation, and service requests processed), and Billing Phase (bill generation, payment processing, and check-out completion). The diagram illustrates how information is exchanged between users and the system to ensure smooth hotel operations and efficient guest management. Figure 11.3 — Sequence Diagram"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 16,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0037",
+    "chunk_text": "Hotel Management System Application 16 11.4 Activity Diagram The Activity Diagram illustrates the overall workflow of the Hotel Management System. It begins with user login, followed by room reservation and availability checking. Once a room is confirmed, the guest checks in and can access hotel services during their stay. The system records services, updates billing details, and processes check-out. Finally, the bill is generated, payment is completed, reports are created, and the session ends. Decision diamonds are used to verify room availability and determine whether additional services are required before check-out. Figure 11.4 — Activity Diagram"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 17,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0038",
+    "chunk_text": "Hotel Management System Application 17 11.5 ER Diagram The Entity-Relationship (ER) Diagram represents the six key data entities in the Hotel Management System GUEST, RESERVATION, ROOM, SERVICE, BILL, and PAYMENT along with their attributes, primary keys (PK), foreign keys (FK), and relationships with cardinality notation (1:1 and 1:N). The diagram illustrates how guests make reservations, rooms are allocated, services are utilized, bills are generated, and payments are processed. It defines the logical data model that supports hotel operations such as reservation management, guest services, billing, and payment processing. Figure 11.5 — Entity-Relationship (ER) Diagram"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 18,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0039",
+    "chunk_text": "Hotel Management System Application 18 12 . Proposed Test Cases The following test cases are designed based on the functional requirements of the Hotel Management System. These represent planned validation scenarios covering room reservation, guest management, check-in/check- out, billing, payment processing, and error handling. 12.1 Test Case Table TC ID Test Description Input Expected Output Type Status TC01 Valid Room Reservation Guest details and available room selection Reservation created successfully System Planned TC02 Invalid Room Reservation Missing guest details or invalid dates System displays validation error message System Planned TC03 Room Availability Check Request for availa"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 18,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0040",
+    "chunk_text": "tem displays validation error message System Planned TC03 Room Availability Check Request for available room Available rooms displayed correctly System Planned TC04 No Rooms Available Reservation request when all rooms are occupied System displays \"No Rooms Available\" message Unit Planned TC05 Guest Check-In Valid reservation ID Guest check-in completed successfully System Planned TC06 Invalid Check-In Invalid or non-existent reservation ID System displays appropriate error message Unit Planned TC07 Guest Check-Out Valid checked-in guest Final bill generated and room status updated Integration Planned TC08 Service Addition Room service request during stay Service recorded and bill updated In"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 18,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0041",
+    "chunk_text": "Planned TC08 Service Addition Room service request during stay Service recorded and bill updated Integration Planned TC09 Payment Processing Valid payment details Payment successful and receipt generated System Planned TC10 Payment Failure Handling Invalid payment information Error message displayed and transaction cancelled System Planned 12.2 Test Case Note Note: The above test cases represent expected system behaviour based on defined functional requirements. These are planned validation scenarios prepared at the design stage of the project. Two additional test cases (TC09 and TC10) have been included to improve coverage of edge cases"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 19,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0042",
+    "chunk_text": "Hotel Management System Application 19 13. Future Scope The current version of the Hotel Management System is designed to automate hotel operations such as room reservations, guest management, billing, and report generation. The system can be extended in the following ways to improve its scalability, usability, and real-world applicability: Enhancement Description Web-Based Application Interface Upgrade the system to a fully interactive web application using Flask, Django, or ASP.NET with a responsive user interface. Online Room Booking Portal Allow guests to book rooms online through a dedicated website with real-time room availability. Database Integration Integrate MySQL, PostgreSQL, or S"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 19,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0043",
+    "chunk_text": "ted website with real-time room availability. Database Integration Integrate MySQL, PostgreSQL, or SQLite to securely store guest details, reservations, billing records, and reports. User Authentication & Role Management Implement secure login for administrators, receptionists, and hotel staff with role-based access control. Online Payment Gateway Integrate payment gateways such as Razorpay, PayPal, or Stripe for secure online payments and booking confirmations. Automated Email & SMS Notifications Send booking confirmations, check-in reminders, payment receipts, and promotional messages automatically. Advanced Reporting & Analytics Generate detailed reports on occupancy rates, revenue, custo"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 19,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0044",
+    "chunk_text": "tically. Advanced Reporting & Analytics Generate detailed reports on occupancy rates, revenue, customer trends, and hotel performance. Mobile Application Version Develop Android and iOS applications for guests and hotel staff to access services on mobile devices. Multi-Hotel Management Support Extend the system to manage multiple hotel branches from a centralized platform. AI-Based Customer Support Integrate AI chatbots to handle guest inquiries, room recommendations, and booking assistance. These enhancements will significantly improve the scalability, usability, and real-world applicability of the system."
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 20,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0045",
+    "chunk_text": "Hotel Management System Application 20 14. Conclusion The Hotel Management System is an integrated software solution developed to automate and streamline various hotel operations, including room reservations, guest management, check -in and check -out processes, billing, staff management, and report generation. The system provides an efficient and centralized platform for managing hotel activities, improving operational productivity and customer service. The application manages guest records, room availability, reservations, billing transactions, and hotel services automatically, reducing manual effort and minimizing operational errors. It enables hotel staff to perform daily tasks efficient"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 20,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0046",
+    "chunk_text": "al effort and minimizing operational errors. It enables hotel staff to perform daily tasks efficiently while providing management with accurate information and real-time access to business data. The system follows a structured modular architecture and clearly demonstrates the practical application of software engineering principles such as object -oriented design, database management, modular programming, and user interface development. It showcases how technology can be effectively utilized to improve the efficiency and reliability of hotel operations. This project serves as a strong foundational model for future enhancements such as online booking integration, mobile application support, c"
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 20,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0047",
+    "chunk_text": "onal model for future enhancements such as online booking integration, mobile application support, cloud -based deployment, and advanced analytics dashboards, reflecting the growing importance of digital solutions in the hospitality industry."
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "page": 21,
+    "section": "",
+    "chunk_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6_CH_0048",
+    "chunk_text": "Hotel Management System Application 21"
+  }
+]

@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+  <title>Live RAG Chat</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<header><a href="/">Streaming Live RAG</a><a href="/dashboard">Dashboard</a></header>
+<main class="grid">
+  <section class="panel">
+    <h2>Streaming Transcript</h2>
+    <textarea id="query" placeholder="Type a partial or complete user transcript..."></textarea>
+    <div class="actions">
+      <button onclick="sendQuery()">Process</button>
+      <button onclick="simulate()">Run Demo Stream</button>
+    </div>
+    <div id="timeline" class="timeline"></div>
+  </section>
+
+  <section class="panel">
+    <h2>Controller</h2>
+    <div id="controller" class="controller">WAIT</div>
+    <h3>Detected Intents</h3>
+    <div id="intents"></div>
+    <h3>Retrieval</h3>
+    <div id="retrieval" class="stats"></div>
+    <h3>Answer</h3>
+    <div id="answer" class="answer">No answer yet.</div>
+    <h3>Citations</h3>
+    <div id="citations"></div>
+    <h3>Evidence</h3>
+    <div id="evidence" class="evidence"></div>
+  </section>
+</main>
+<script src="/static/js/app.js"></script>
+</body>
+</html>

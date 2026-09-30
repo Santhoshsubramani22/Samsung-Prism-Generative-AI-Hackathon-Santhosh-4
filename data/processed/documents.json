@@ -1,0 +1,32 @@
+[
+  {
+    "document_id": "EVENT_POLICY",
+    "document_name": "event_policy.txt",
+    "file_type": "txt",
+    "total_pages": 1
+  },
+  {
+    "document_id": "LEAVE_POLICY",
+    "document_name": "leave_policy.txt",
+    "file_type": "txt",
+    "total_pages": 1
+  },
+  {
+    "document_id": "README",
+    "document_name": "README.txt",
+    "file_type": "txt",
+    "total_pages": 1
+  },
+  {
+    "document_id": "REIMBURSEMENT_POLICY",
+    "document_name": "reimbursement_policy.txt",
+    "file_type": "txt",
+    "total_pages": 1
+  },
+  {
+    "document_id": "SRS_HOTEL_MANAGEMENT_SYSTEM_8_6",
+    "document_name": "SRS_Hotel_Management_System_8_6.pdf",
+    "file_type": "pdf",
+    "total_pages": 21
+  }
+]
